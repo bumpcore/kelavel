@@ -1,7 +1,7 @@
 {
     "name": "bumpcore/kelavel",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "The Laravel 10 version of the skeleton application.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
