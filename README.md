@@ -9,7 +9,7 @@
 
 ## About this Skeleton
 
-As many of you may know, in Laravel 11, the default skeleton has been changed. Personally, I believe the new skeleton is making things more complicated, ironically, the intention was to make things slim and simple. So, here we are, with the Laravel 10 skeleton upgraded to Laravel 11.
+As many of you may know, in Laravel 11, the default skeleton has been changed. Personally, I believe the new skeleton is making things more complicated, ironically, the intention was to make things slim and simple. So, here we are, with the Laravel 10 skeleton upgraded to Laravel 12.
 
 > Probably there's some missing stuff, if you see something missing, please let me know.
 
